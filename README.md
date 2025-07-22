@@ -7,7 +7,7 @@
 
 🚀 **Featured Projects**:
 
-- 🧩 [Retail Sales Analysis – Excel + SQL + Power BI](https://github.com/adityapatne001/retail-sales-analysis-superstore)  
+- 🧩 [Retail Sales Analysis – Excel + SQL + Power BI](https://github.com/adityapatne001/retail-sales-analysis-excel-sql-powerbi)  
   Full-cycle data project using PostgreSQL, Excel and Power BI. Normalized data, performed SQL analysis, built Excel dashboard with macros and designed a multi-page Power BI report (KPI, drillthrough, time intelligence).
 
 - 📊 [Power BI Mobile Sales Dashboard](https://github.com/adityapatne001/power-bi-mobile-sales-dashboard)  
