@@ -20,8 +20,8 @@
   Created an interactive dashboard using PivotTables, formulas, slicers and conditional formatting for executive performance tracking.
 
 📜 **Certifications**
-- ✅ [Power BI Course Certificate – Skill Course](./certificates/Power_BI_Certificate.pdf)
-- ✅ [SQL Course Certificate – Skill Course](./certificates/SQL_Certificate.pdf)
+- ✅ [Power BI Course Certificate – Skill Course](./certificates/Power_BI_Course_Certificate.pdf)
+- ✅ [SQL Course Certificate – Skill Course](./certificates/SQL_Course_Certificate.pdf)
 
 📫 **Reach me at**:  
 [LinkedIn](https://linkedin.com/in/adityapatne001) | [GitHub](https://github.com/adityapatne001)
