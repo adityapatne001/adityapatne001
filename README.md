@@ -1,9 +1,10 @@
 # 👋 Hi, I’m Aditya Patne
 
 🎯 **Aspiring Data Analyst** skilled in:
-- **SQL** (PostgreSQL, SQL Server)
 - **Power BI** (DAX, Slicers, KPIs, Dashboards)
 - **Excel** (Pivot Tables, Dashboarding, Data Cleaning)
+- **SQL** (PostgreSQL, SQL Server)
+- **Python** (Numpy, Pandas, Matplotlib, Seaborn)
 
 🚀 **Featured Projects**:
 
