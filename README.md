@@ -2,7 +2,7 @@
 
 🎯 **Aspiring Data Analyst** skilled in:
 - **Power BI** (DAX, Slicers, KPIs, Dashboards)
-- **Excel** (Pivot Tables, Dashboarding, Data Cleaning)
+- **Excel** (Pivot Tables, Basic Macros, Dashboards)
 - **SQL** (PostgreSQL, SQL Server)
 - **Python** (Numpy, Pandas, Matplotlib, Seaborn)
 
