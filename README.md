@@ -26,9 +26,9 @@
 - ✅ [SQL Course Certificate](./certificates/SQL_Course_Certificate.pdf)
 
 💡 **Additional Note**
-Used **ChatGPT** (Generative AI) to refine code logic, improve documentation clarity and automate small repetitive data analysis tasks during project development.
+  Used **ChatGPT** (Generative AI) to refine code logic, improve documentation clarity and automate small repetitive data analysis tasks during project development.
 
 📫 **Reach me at**:  
-[LinkedIn](https://linkedin.com/in/adityapatne001) | [GitHub](https://github.com/adityapatne001)
+  [LinkedIn](https://linkedin.com/in/adityapatne001) | [GitHub](https://github.com/adityapatne001)
 
 📄 [Download My Resume](./Aditya_Patne_Resume.pdf)
