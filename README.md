@@ -5,6 +5,7 @@
 - **Excel** (Pivot Tables, Basic Macros, Dashboards)
 - **SQL** (PostgreSQL, SQL Server)
 - **Python** (Numpy, Pandas, Matplotlib, Seaborn)
+- **AI Tools** (ChatGPT for analytical documentation, query optimization & automation support)
 
 🚀 **Featured Projects**:
 
@@ -23,6 +24,9 @@
 📜 **Certifications**
 - ✅ [Power BI Course Certificate](./certificates/Power_BI_Course_Certificate.pdf)
 - ✅ [SQL Course Certificate](./certificates/SQL_Course_Certificate.pdf)
+
+💡 **Additional Note**
+Used **ChatGPT** (Generative AI) to refine code logic, improve documentation clarity and automate small repetitive data analysis tasks during project development.
 
 📫 **Reach me at**:  
 [LinkedIn](https://linkedin.com/in/adityapatne001) | [GitHub](https://github.com/adityapatne001)
