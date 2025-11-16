@@ -22,9 +22,9 @@
   Created an interactive dashboard using PivotTables, formulas, slicers and conditional formatting for executive performance tracking.
 
 📜 **Certifications**
-- ✅ [Power BI Certificate](./certificates/Power_BI_Certificate.pdf)
-- ✅ [SQL Certificate](./certificates/SQL_Certificate.pdf)
-- ✅ [Excel Formulas using AI Certificate](./certificates/Excel_Formulas_Using_AI_Certificate.pdf)
+- ✅ [Power BI](./certificates/Power_BI_Certificate.pdf)
+- ✅ [SQL](./certificates/SQL_Certificate.pdf)
+- ✅ [Excel Formulas using AI](./certificates/Excel_Formulas_Using_AI_Certificate.pdf)
 
 💡 **Additional Note** 
 - Used **ChatGPT** (Generative AI) to refine code logic, improve documentation clarity and automate small repetitive data analysis tasks during project development.
