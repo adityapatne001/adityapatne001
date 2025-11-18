@@ -24,7 +24,7 @@
 📜 **Certifications**
 - ✅ [Power BI](./certificates/Power_BI_Certificate.pdf)
 - ✅ [SQL](./certificates/SQL_Certificate.pdf)
-- ✅ [Excel Formulas using AI](./certificates/Excel_Formulas_Using_AI_Certificate.pdf)
+- ✅ [Excel Formula Mastery using AI](./certificates/Excel_Formulas_Using_AI_Certificate.pdf)
 
 💡 **Additional Note** 
 - Used **ChatGPT & Perplexity** (Generative AI) to refine code logic, improve documentation clarity and automate small repetitive data analysis tasks during project development.
