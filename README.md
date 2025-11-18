@@ -27,7 +27,7 @@
 - ✅ [Excel Formulas using AI](./certificates/Excel_Formulas_Using_AI_Certificate.pdf)
 
 💡 **Additional Note** 
-- Used **ChatGPT** (Generative AI) to refine code logic, improve documentation clarity and automate small repetitive data analysis tasks during project development.
+- Used **ChatGPT & Perplexity** (Generative AI) to refine code logic, improve documentation clarity and automate small repetitive data analysis tasks during project development.
 
 📫 **Reach me at**:  
   [LinkedIn](https://linkedin.com/in/adityapatne001) | [GitHub](https://github.com/adityapatne001)
