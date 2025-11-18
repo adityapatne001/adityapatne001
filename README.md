@@ -5,7 +5,7 @@
 - **Excel** (Pivot Tables, Basic Macros, Dashboards)
 - **SQL** (PostgreSQL, SQL Server)
 - **Python** (Numpy, Pandas, Matplotlib, Seaborn)
-- **AI Tools** (ChatGPT for analytical documentation, query optimization & automation support)
+- **AI Tools** (ChatGPT & Perplexity for analytical documentation, query optimization & automation support)
 
 🚀 **Featured Projects**:
 
