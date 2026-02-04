@@ -1,35 +1,59 @@
 # 👋 Hi, I’m Aditya Patne
 
-🎯 **Aspiring Data Analyst** skilled in:
-- **Power BI** (DAX, Slicers, KPIs, Dashboards)
-- **Excel** (Pivot Tables, Basic Macros, Dashboards)
-- **SQL** (PostgreSQL, SQL Server)
-- **Python** (Numpy, Pandas, Matplotlib, Seaborn)
-- **AI Tools** (ChatGPT & Perplexity - Generative AI assistance)
+🎯 **Data Analyst** with hands-on experience in building end-to-end analytical projects using **SQL, Excel, Power BI and Python**. Focused on data cleaning, reporting, dashboarding and translating raw data into actionable business insights.
 
-🚀 **Featured Projects**:
+---
 
-- 🧩 [Retail Sales Analysis – Excel + SQL + Power BI](https://github.com/adityapatne001/retail-sales-analysis-excel-sql-powerbi)  
-  Full-cycle data project using PostgreSQL, Excel and Power BI. Normalized data, performed SQL analysis, built Excel dashboard with macros and designed a multi-page Power BI report (KPI, drillthrough, time intelligence).
+## 🛠️ Technical Skills
 
-- 📊 [Power BI Mobile Sales Dashboard](https://github.com/adityapatne001/power-bi-mobile-sales-dashboard)  
-  Designed a dynamic dashboard using DAX, slicers and KPIs to track mobile sales performance by region, category and time.
+- **Data Visualization & Reporting:** Power BI (DAX, KPIs, Slicers, Dashboards)
+- **Data Analysis:** Excel (Pivot Tables, Formulas, Dashboards, Basic Macros)
+- **Databases:** SQL (PostgreSQL, SQL Server)
+- **Programming:** Python (NumPy, Pandas, Matplotlib, Seaborn)
+- **Tools & Productivity:** Power Query, ChatGPT & Perplexity (AI assistance)
 
-- 📘 [SQL Bookstore Analysis](https://github.com/adityapatne001/sql-bookstore-sales-analysis)  
-  Built a relational database and wrote analytical queries to extract customer trends, top-selling books and stock analysis.
+---
 
-- 📈 [Excel Sales Dashboard](https://github.com/adityapatne001/excel-sales-performance-dashboard)  
-  Created an interactive dashboard using PivotTables, formulas, slicers and conditional formatting for executive performance tracking.
+## 🚀 Featured Projects
 
-📜 **Certifications**
-- ✅ [Power BI](./certificates/Power_BI_Certificate.pdf)
-- ✅ [SQL](./certificates/SQL_Certificate.pdf)
-- ✅ [Excel Formula Mastery using AI](./certificates/Excel_Formulas_Using_AI_Certificate.pdf)
+- 🐍 **[Corporate Data Analysis & Reporting Tool – Python](https://github.com/adityapatne001/corporate-data-analysis-python)**  
+  Python-based analytical application to clean, aggregate and summarize CSV/Excel datasets, generate automated reports and create visual insights using Pandas and Matplotlib.
 
-💡 **Additional Note** 
-- Used **ChatGPT & Perplexity** for analytical documentation, query optimization & automation support during project development.
+- 🧩 **[Retail Sales Analysis – Excel + SQL + Power BI](https://github.com/adityapatne001/retail-sales-analysis-excel-sql-powerbi)**  
+  End-to-end analytics project involving data cleaning, SQL analysis, Excel dashboards with macros and a multi-page Power BI report (KPIs, drillthrough, time intelligence).
 
-📫 **Reach me at**:  
-  [LinkedIn](https://linkedin.com/in/adityapatne001) | [GitHub](https://github.com/adityapatne001)
+- 📊 **[Power BI Mobile Sales Dashboard](https://github.com/adityapatne001/power-bi-mobile-sales-dashboard)**  
+  Interactive Power BI dashboard built using DAX measures, slicers and KPIs to analyze mobile sales performance across regions and time.
 
-📄 [Download My Resume](./Aditya_Patne_Resume.pdf)
+- 📘 **[SQL Bookstore Sales Analysis](https://github.com/adityapatne001/sql-bookstore-sales-analysis)**  
+  Relational database design and SQL-based analysis to uncover customer trends, top-selling books and inventory insights.
+
+- 📈 **[Excel Sales Performance Dashboard](https://github.com/adityapatne001/excel-sales-performance-dashboard)**  
+  Executive-style Excel dashboard using PivotTables, formulas, slicers and conditional formatting.
+
+---
+
+## 📜 Certifications
+
+- ✅ Power BI – Project Based
+- ✅ SQL – Project Based
+- ✅ Excel Formula Mastery using AI
+- ✅ AI Powered Python – Project Based
+
+---
+
+## 🎯 Career Focus
+
+- Entry-level **Data Analyst**
+- Reporting Analyst
+- Business Analyst (Junior)
+
+Open to roles involving data cleaning, reporting, dashboards and analytical support.
+
+---
+
+## 📫 Connect with Me
+
+- 🔗 [LinkedIn](https://linkedin.com/in/adityapatne001)
+- 💻 [GitHub](https://github.com/adityapatne001)
+- 📄 [Resume](./Aditya_Patne_Resume.pdf)
