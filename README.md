@@ -16,7 +16,7 @@
 
 ## 🚀 Featured Projects
 
-- 🐍 **[Corporate Data Analysis & Reporting Tool – Python](https://github.com/adityapatne001/corporate-data-analysis-python)**  
+- 🐍 **[Corporate Data Analysis & Reporting Tool using Python](https://github.com/adityapatne001/corporate-data-analysis-python)**  
   Python-based analytical application to clean, aggregate and summarize CSV/Excel datasets, generate automated reports and create visual insights using Pandas and Matplotlib.
 
 - 🧩 **[Retail Sales Analysis – Excel + SQL + Power BI](https://github.com/adityapatne001/retail-sales-analysis-excel-sql-powerbi)**  
