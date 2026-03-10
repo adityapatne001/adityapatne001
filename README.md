@@ -17,7 +17,8 @@
 ## 🚀 Featured Projects
 
 - 📊 **[Financial Stability Analytics Engine](https://github.com/adityapatne001/financial-stability-analytics-engine)** 
-  An Excel-based financial analytics engine that analyzes installment collections, detects revenue risk and simulates financial stability for coaching institutes.
+
+   An Excel-based financial analytics engine that analyzes installment collections, detects revenue risk and simulates financial stability for coaching institutes.
 
 - 🐍 **[Corporate Data Analysis & Reporting Tool using Python](https://github.com/adityapatne001/corporate-data-analysis-python)**  
   Python-based analytical application to clean, aggregate and summarize CSV/Excel datasets, generate automated reports and create visual insights using Pandas and Matplotlib.
