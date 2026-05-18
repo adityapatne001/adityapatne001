@@ -48,7 +48,7 @@
 
 ## 🤖 AI-Assisted Workflow Exposure
 
-- Used ChatGPT & Perplexity for analytical documentation, workflow structuring and productivity enhancement during project development.
+- Used ChatGPT, Google Gemini & Perplexity for analytical documentation, workflow structuring and productivity enhancement during project development.
 - Familiar with prompt evaluation, structured prompting and AI-assisted analytical workflows.
 
 ---
