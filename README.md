@@ -10,7 +10,7 @@
 - **Data Analysis:** Excel (Pivot Tables, Formulas, Dashboards, Basic Macros)
 - **Databases:** SQL (PostgreSQL, SQL Server)
 - **Programming:** Python (NumPy, Pandas, Matplotlib, Seaborn)
-- **AI & Productivity Tools:** ChatGPT & Perplexity for Prompt-Based Analysis & AI-Assisted Reporting Workflows
+- **AI & Productivity Tools:** ChatGPT, Google Gemini & Perplexity for Prompt-Based Analysis & AI-Assisted Reporting Workflows
 - **Tools & Environments:** Power Query, Jupyter Notebook, VS Code
 
 ---
