@@ -1,6 +1,6 @@
 # 👋 Hi, I’m Aditya Patne
 
-🎯 **Data Analyst** with hands-on experience in building end-to-end analytical projects using **SQL, Excel, Power BI and Python**. Focused on data cleaning, reporting, dashboarding and translating raw data into actionable business insights.
+🎯 **Data Analyst** with hands-on experience in analytical reporting, dashboard development and AI-assisted workflows using **SQL, Excel, Power BI and Python**. Built end-to-end projects focused on data cleaning, visualization, KPI reporting, automation and transforming raw data into actionable business insights.
 
 ---
 
@@ -10,7 +10,8 @@
 - **Data Analysis:** Excel (Pivot Tables, Formulas, Dashboards, Basic Macros)
 - **Databases:** SQL (PostgreSQL, SQL Server)
 - **Programming:** Python (NumPy, Pandas, Matplotlib, Seaborn)
-- **Tools & Productivity:** Power Query, ChatGPT & Perplexity (AI assistance)
+- **AI & Productivity Tools:** ChatGPT & Perplexity for Prompt-Based Analysis & AI-Assisted Reporting Workflows
+- **Tools & Environments:** Power Query, Jupyter Notebook, VS Code
 
 ---
 
@@ -45,13 +46,21 @@
 
 ---
 
+## 🤖 AI-Assisted Workflow Exposure
+
+- Used ChatGPT & Perplexity for analytical documentation, workflow structuring and productivity enhancement during project development.
+- Familiar with prompt evaluation, structured prompting and AI-assisted analytical workflows.
+
+---
+
 ## 🎯 Career Focus
 
-- Entry-level **Data Analyst**
-- Reporting Analyst
+- Data Analyst
+- Reporting / MIS Analyst
 - Business Analyst (Junior)
+- AI-Assisted Operations & Analytical Support Roles
 
-Open to roles involving data cleaning, reporting, dashboards and analytical support.
+Open to opportunities involving reporting, dashboards, data operations, analytical support and AI-assisted workflows.
 
 ---
 
