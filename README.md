@@ -1,6 +1,23 @@
 # 👋 Hi, I’m Aditya Patne
 
-🎯 **Data Analyst** with hands-on experience in analytical reporting, dashboard development and AI-assisted workflows using **SQL, Excel, Power BI and Python**. Built end-to-end projects focused on data cleaning, visualization, KPI reporting, automation and transforming raw data into actionable business insights.
+🎯 **Data Analyst & AI-Assisted Workflow Enthusiast** with hands-on experience in analytical reporting, dashboard development, AI response evaluation and workflow-oriented automation using **SQL, Excel, Power BI and Python**.
+
+Built end-to-end portfolio projects focused on:
+- data analysis,
+- KPI reporting,
+- prompt evaluation,
+- AI-assisted workflows,
+- operational reporting,
+- response quality analysis,
+- and business-focused analytical solutions.
+
+Currently exploring opportunities in:
+- Data Analytics
+- Reporting & MIS
+- AI Operations
+- Prompt QA
+- GenAI Support
+- AI Workflow Evaluation Roles
 
 ---
 
@@ -10,12 +27,16 @@
 - **Data Analysis:** Excel (Pivot Tables, Formulas, Dashboards, Basic Macros)
 - **Databases:** SQL (PostgreSQL, SQL Server)
 - **Programming:** Python (NumPy, Pandas, Matplotlib, Seaborn)
-- **AI & Productivity Tools:** ChatGPT, Google Gemini & Perplexity for Prompt-Based Analysis & AI-Assisted Reporting Workflows
-- **Tools & Environments:** Power Query, Jupyter Notebook, VS Code
+- **AI & Workflow Tools:** ChatGPT, Google Gemini
+- **AI Workflow Exposure:** Prompt Structuring, AI Response Evaluation, Prompt Optimization, AI-Assisted Reporting Workflows
+- **Tools & Environments:** Power Query, VS Code
 
 ---
 
 ## 🚀 Featured Projects
+
+- 🤖 **[AI Response Evaluation & Prompt Optimization Studio](https://github.com/adityapatne001/ai-response-evaluation-studio)**  
+  AI workflow application designed to simulate Prompt QA, AI Operations and LLM evaluation workflows. Features structured response scoring, AI-assisted evaluation feedback, prompt optimization, evaluation logging and operational report exporting using Python, Streamlit and Gemini API.
 
 - 📊 **[Financial Stability Analytics Engine](https://github.com/adityapatne001/financial-stability-analytics-engine)**  
   An Excel-based financial analytics engine that analyzes installment collections, detects revenue risk and simulates financial stability for coaching institutes.
@@ -48,8 +69,26 @@
 
 ## 🤖 AI-Assisted Workflow Exposure
 
-- Used ChatGPT, Google Gemini & Perplexity for analytical documentation, workflow structuring and productivity enhancement during project development.
-- Familiar with prompt evaluation, structured prompting and AI-assisted analytical workflows.
+Hands-on exposure to AI-assisted workflow systems using:
+- ChatGPT
+- Google Gemini
+
+Practical usage areas include:
+- prompt structuring,
+- AI response evaluation,
+- comparative response analysis,
+- workflow optimization,
+- AI-assisted reporting,
+- documentation enhancement,
+- structured reasoning tasks.
+
+Familiar with:
+- Zero-shot prompting
+- One-shot prompting
+- Few-shot prompting
+- Chain-of-Thought prompting
+
+Focused on practical AI productivity and evaluation workflows rather than advanced model engineering.
 
 ---
 
@@ -57,10 +96,19 @@
 
 - Data Analyst
 - Reporting / MIS Analyst
-- Business Analyst (Junior)
-- AI-Assisted Operations & Analytical Support Roles
+- AI Operations Associate
+- Prompt QA Analyst
+- GenAI Support Roles
+- AI Workflow Evaluation Roles
+- Business & Operational Analytics
 
-Open to opportunities involving reporting, dashboards, data operations, analytical support and AI-assisted workflows.
+Interested in opportunities involving:
+- analytical reporting,
+- AI-assisted workflows,
+- operational support systems,
+- dashboarding,
+- evaluation processes,
+- and structured problem-solving environments.
 
 ---
 
