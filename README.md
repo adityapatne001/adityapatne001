@@ -38,14 +38,14 @@ Currently exploring opportunities in:
 - 🤖 **[AI Response Evaluation & Prompt Optimization Studio](https://github.com/adityapatne001/ai-response-evaluation-studio)**  
   AI workflow application designed to simulate Prompt QA, AI Operations and LLM evaluation workflows. Features structured response scoring, AI-assisted evaluation feedback, prompt optimization, evaluation logging and operational report exporting using Python, Streamlit and Gemini API.
 
-- 📊 **[Financial Stability Analytics Engine](https://github.com/adityapatne001/financial-stability-analytics-engine)**  
-  An Excel-based financial analytics engine that analyzes installment collections, detects revenue risk and simulates financial stability for coaching institutes.
-
 - 🐍 **[Corporate Data Analysis & Reporting Tool using Python](https://github.com/adityapatne001/corporate-data-analysis-python)**  
   Python-based analytical application to clean, aggregate and summarize CSV/Excel datasets, generate automated reports and create visual insights using Pandas and Matplotlib.
 
 - 🧩 **[Retail Sales Analysis – Excel + SQL + Power BI](https://github.com/adityapatne001/retail-sales-analysis-excel-sql-powerbi)**  
   End-to-end analytics project involving data cleaning, SQL analysis, Excel dashboards with macros and a multi-page Power BI report (KPIs, drillthrough, time intelligence).
+
+- 📊 **[Financial Stability Analytics Engine](https://github.com/adityapatne001/financial-stability-analytics-engine)**  
+  An Excel-based financial analytics engine that analyzes installment collections, detects revenue risk and simulates financial stability for coaching institutes.
 
 - 📊 **[Power BI Mobile Sales Dashboard](https://github.com/adityapatne001/power-bi-mobile-sales-dashboard)**  
   Interactive Power BI dashboard built using DAX measures, slicers and KPIs to analyze mobile sales performance across regions and time.
