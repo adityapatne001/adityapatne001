@@ -288,7 +288,7 @@ I'm interested in opportunities involving:
 [github.com/adityapatne001](https://github.com/adityapatne001)
 
 📄 **Resume**  
-[View Resume (PDF)](./Aditya_Patne_Resume.pdf)
+[View Resume](./Aditya_Patne_Resume.pdf)
 
 ---
 
