@@ -1,119 +1,300 @@
-# 👋 Hi, I’m Aditya Patne
+# 👋 Hi, I'm **Aditya Patne**
 
-🎯 **Data Analyst & AI-Assisted Workflow Enthusiast** with hands-on experience in analytical reporting, dashboard development, AI response evaluation and workflow-oriented automation using **SQL, Excel, Power BI and Python**.
+## 🚀 **Data Analyst | AI Evaluation | Business Intelligence | AI Operations**
 
-Built end-to-end portfolio projects focused on:
-- data analysis,
-- KPI reporting,
-- prompt evaluation,
-- AI-assisted workflows,
-- operational reporting,
-- response quality analysis,
-- and business-focused analytical solutions.
+I'm a **Data Analyst** with hands-on experience in **SQL, Excel, Power BI, Python** and practical experience evaluating **AI-generated responses**, comparing model outputs and building **AI-assisted analytical applications**.
 
-Currently exploring opportunities in:
-- Data Analytics
-- Reporting & MIS
-- AI Operations
-- Prompt QA
-- GenAI Support
-- AI Workflow Evaluation Roles
+I have hands-on exposure to **AI response evaluation, prompt assessment, structured reasoning, workflow optimization, dashboard development and business reporting** using modern AI tools.
+
+I enjoy transforming raw data into meaningful insights, building interactive dashboards, automating reporting workflows and exploring practical applications of Artificial Intelligence.
+
+I'm currently seeking opportunities in:
+
+- **Data Analytics**
+- **Business Intelligence**
+- **Reporting & MIS**
+- **AI Operations**
+- **AI Evaluation**
+- **Prompt Quality Assurance (Prompt QA)**
 
 ---
 
-## 🛠️ Technical Skills
+# 🛠️ **Technical Skills**
 
-- **Data Visualization & Reporting:** Power BI (DAX, KPIs, Slicers, Dashboards)
-- **Data Analysis:** Excel (Pivot Tables, Formulas, Dashboards, Basic Macros)
-- **Databases:** SQL (PostgreSQL, SQL Server)
-- **Programming:** Python (NumPy, Pandas, Matplotlib, Seaborn)
-- **AI & Workflow Tools:** ChatGPT, Google Gemini
-- **AI Workflow Exposure:** Prompt Structuring, AI Response Evaluation, Prompt Optimization, AI-Assisted Reporting Workflows
-- **Tools & Environments:** Power Query, VS Code
+## 📊 **Data Analytics & Business Intelligence**
 
----
-
-## 🚀 Featured Projects
-
-- 🤖 **[AI Response Evaluation & Prompt Optimization Studio](https://github.com/adityapatne001/ai-response-evaluation-studio)**  
-  AI workflow application designed to simulate Prompt QA, AI Operations and LLM evaluation workflows. Features structured response scoring, AI-assisted evaluation feedback, prompt optimization, evaluation logging and operational report exporting using Python, Streamlit and Gemini API.
-
-- 🐍 **[Corporate Data Analysis & Reporting Tool using Python](https://github.com/adityapatne001/corporate-data-analysis-python)**  
-  Python-based analytical application to clean, aggregate and summarize CSV/Excel datasets, generate automated reports and create visual insights using Pandas and Matplotlib.
-
-- 🧩 **[Retail Sales Analysis – Excel + SQL + Power BI](https://github.com/adityapatne001/retail-sales-analysis-excel-sql-powerbi)**  
-  End-to-end analytics project involving data cleaning, SQL analysis, Excel dashboards with macros and a multi-page Power BI report (KPIs, drillthrough, time intelligence).
-
-- 📊 **[Financial Stability Analytics Engine](https://github.com/adityapatne001/financial-stability-analytics-engine)**  
-  An Excel-based financial analytics engine that analyzes installment collections, detects revenue risk and simulates financial stability for coaching institutes.
-
-- 📊 **[Power BI Mobile Sales Dashboard](https://github.com/adityapatne001/power-bi-mobile-sales-dashboard)**  
-  Interactive Power BI dashboard built using DAX measures, slicers and KPIs to analyze mobile sales performance across regions and time.
-
-- 📘 **[SQL Bookstore Sales Analysis](https://github.com/adityapatne001/sql-bookstore-sales-analysis)**  
-  Relational database design and SQL-based analysis to uncover customer trends, top-selling books and inventory insights.
-
-- 📈 **[Excel Sales Performance Dashboard](https://github.com/adityapatne001/excel-sales-performance-dashboard)**  
-  Executive-style Excel dashboard using PivotTables, formulas, slicers and conditional formatting.
+- **Microsoft Excel**
+- **Power BI**
+- **Power Query**
+- **DAX**
+- **Dashboard Development**
+- **KPI Reporting**
+- **Business Reporting**
 
 ---
 
-## 📜 Certifications
+## 💾 **Programming & Databases**
 
-- ✅ Power BI – Project Based
-- ✅ SQL – Project Based
-- ✅ Excel Formula Mastery using AI
-- ✅ AI Powered Python – Project Based
-
----
-
-## 🤖 AI-Assisted Workflow Exposure
-
-Hands-on exposure to AI-assisted workflow systems using:
-- ChatGPT
-- Google Gemini
-
-Practical usage areas include:
-- prompt structuring,
-- AI response evaluation,
-- comparative response analysis,
-- workflow optimization,
-- AI-assisted reporting,
-- documentation enhancement,
-- structured reasoning tasks.
-
-Familiar with:
-- Zero-shot prompting
-- One-shot prompting
-- Few-shot prompting
-- Chain-of-Thought prompting
-
-Focused on practical AI productivity and evaluation workflows rather than advanced model engineering.
+- **Python**
+- **SQL**
+- **PostgreSQL**
+- **Microsoft SQL Server**
 
 ---
 
-## 🎯 Career Focus
+## 📚 **Python Libraries**
 
-- Data Analyst
-- Reporting / MIS Analyst
-- AI Operations Associate
-- Prompt QA Analyst
-- GenAI Support Roles
-- AI Workflow Evaluation Roles
-- Business & Operational Analytics
-
-Interested in opportunities involving:
-- analytical reporting,
-- AI-assisted workflows,
-- operational support systems,
-- dashboarding,
-- evaluation processes,
-- and structured problem-solving environments.
+- **Pandas**
+- **NumPy**
+- **Matplotlib**
 
 ---
 
-## 📫 Connect with Me
+## 🤖 **AI & Productivity**
 
-- 🔗 [LinkedIn](https://linkedin.com/in/adityapatne001)
-- 💻 [GitHub](https://github.com/adityapatne001)
-- 📄 [Resume](./Aditya_Patne_Resume.pdf)
+- **ChatGPT**
+- **Google Gemini**
+- **AI Response Evaluation**
+- **Prompt Evaluation**
+- **Prompt Optimization**
+- **Comparative Response Analysis**
+- **Structured Reasoning**
+- **AI-Assisted Reporting**
+
+---
+
+## ⚙️ **Tools & Development Environment**
+
+- **Git**
+- **GitHub**
+- **VS Code**
+- **Claude Code**
+- **Ubuntu (WSL)**
+
+---
+
+# 💻 **Development Environment**
+
+I build and test projects using a modern development workflow that includes:
+
+- **VS Code**
+- **Git & GitHub**
+- **Claude Code**
+- **Ubuntu (WSL)**
+- **Python Virtual Environments**
+
+---
+
+# 🚀 **Featured Projects**
+
+## 🤖 **AI Response Evaluation & Prompt Optimization Studio**
+
+🔗 https://github.com/adityapatne001/ai-response-evaluation-studio
+
+A Python + Streamlit application that simulates real-world **AI evaluation workflows** used for assessing Large Language Model (LLM) responses.
+
+### **Key Features**
+
+- ✅ AI Response Evaluation
+- ✅ Prompt Comparison
+- ✅ Structured Response Scoring
+- ✅ Prompt Optimization
+- ✅ Evaluation Logging
+- ✅ Gemini API Integration
+- ✅ Interactive Streamlit Interface
+- ✅ Report Export
+
+**Tech Stack:** **Python • Streamlit • Gemini API**
+
+---
+
+## 📊 **Corporate Data Analysis & Reporting Tool**
+
+🔗 https://github.com/adityapatne001/corporate-data-analysis-python
+
+Python application for cleaning, analyzing and visualizing business datasets.
+
+### **Key Features**
+
+- ✅ Data Cleaning
+- ✅ Automated Reporting
+- ✅ Business Insights
+- ✅ Data Aggregation
+- ✅ Interactive Charts
+
+**Tech Stack:** **Python • Pandas • Matplotlib**
+
+---
+
+## 🧩 **Retail Sales Analysis (Excel + SQL + Power BI)**
+
+🔗 https://github.com/adityapatne001/retail-sales-analysis-excel-sql-powerbi
+
+End-to-end analytics project covering complete reporting workflow from raw data to executive dashboards.
+
+### **Key Features**
+
+- ✅ SQL Analysis
+- ✅ Excel Dashboard
+- ✅ Power BI Dashboard
+- ✅ KPI Tracking
+- ✅ Time Intelligence
+- ✅ Drillthrough Reports
+
+**Tech Stack:** **SQL • Excel • Power BI**
+
+---
+
+## 📈 **Financial Stability Analytics Engine**
+
+🔗 https://github.com/adityapatne001/financial-stability-analytics-engine
+
+Financial analytics solution designed to evaluate installment collections and revenue stability.
+
+### **Key Features**
+
+- ✅ Revenue Analysis
+- ✅ Financial Reporting
+- ✅ Risk Identification
+- ✅ Dashboarding
+
+**Tech Stack:** **Excel**
+
+---
+
+## 📱 **Power BI Mobile Sales Dashboard**
+
+🔗 https://github.com/adityapatne001/power-bi-mobile-sales-dashboard
+
+Interactive Power BI dashboard for analyzing mobile sales performance.
+
+### **Key Features**
+
+- ✅ DAX Measures
+- ✅ KPI Dashboard
+- ✅ Slicers
+- ✅ Drillthrough
+- ✅ Regional Analysis
+
+**Tech Stack:** **Power BI • DAX**
+
+---
+
+## 📚 **SQL Bookstore Sales Analysis**
+
+🔗 https://github.com/adityapatne001/sql-bookstore-sales-analysis
+
+SQL project demonstrating database design and business reporting.
+
+### **Key Features**
+
+- ✅ Database Design
+- ✅ SQL Queries
+- ✅ Customer Insights
+- ✅ Sales Analysis
+- ✅ Inventory Reporting
+
+**Tech Stack:** **SQL**
+
+---
+
+## 📊 **Excel Sales Performance Dashboard**
+
+🔗 https://github.com/adityapatne001/excel-sales-performance-dashboard
+
+Interactive executive dashboard for monitoring sales performance.
+
+### **Key Features**
+
+- ✅ Pivot Tables
+- ✅ Slicers
+- ✅ Conditional Formatting
+- ✅ Executive Reporting
+
+**Tech Stack:** **Excel**
+
+---
+
+# 📜 **Certifications**
+
+- ✅ **Power BI**
+- ✅ **SQL**
+- ✅ **Excel Formula Mastery using AI**
+- ✅ **AI Powered Python**
+
+---
+
+# 🤖 **AI Evaluation Experience**
+
+I have practical experience using modern Large Language Models to support analytical and evaluation workflows.
+
+### **Hands-on Experience**
+
+- ✅ AI Response Evaluation
+- ✅ Comparative Response Analysis
+- ✅ Prompt Evaluation
+- ✅ Prompt Refinement
+- ✅ Prompt Optimization
+- ✅ Structured Reasoning
+- ✅ AI-Assisted Reporting
+- ✅ Documentation Enhancement
+
+### **AI Tools**
+
+- **ChatGPT**
+- **Google Gemini**
+
+### **Prompting Techniques**
+
+- **Zero-shot Prompting**
+- **One-shot Prompting**
+- **Few-shot Prompting**
+- **Chain-of-Thought Prompting**
+
+---
+
+# 📌 **Currently Working On**
+
+- 🚀 Enhancing **AI Response Evaluation Studio**
+- 📊 Expanding **Power BI Dashboard Portfolio**
+- 🐍 Building advanced **SQL & Python** projects
+- 🤖 Exploring **AI Evaluation & AI Operations**
+- 📈 Developing business-focused analytical solutions
+
+---
+
+# 🎯 **Career Interests**
+
+I'm interested in opportunities involving:
+
+- **Data Analytics**
+- **Business Intelligence**
+- **Reporting & MIS**
+- **AI Operations**
+- **AI Evaluation**
+- **Prompt QA**
+- **Dashboard Development**
+- **Business Reporting**
+- **Data Visualization**
+
+---
+
+# 📫 **Connect with Me**
+
+### 💼 **LinkedIn**
+
+**https://linkedin.com/in/adityapatne001**
+
+### 💻 **GitHub**
+
+**https://github.com/adityapatne001**
+
+### 📄 **Resume**
+
+**./Aditya_Patne_Resume.pdf**
+
+---
+
+# ⭐ **Thanks for Visiting!**
+
+If you find my projects interesting, feel free to explore my repositories, connect with me on LinkedIn or reach out for collaboration and opportunities.
