@@ -279,19 +279,16 @@ I'm interested in opportunities involving:
 
 ---
 
-# 📫 **Connect with Me**
+## 📫 **Connect with Me**
 
-### 💼 **LinkedIn**
+💼 **LinkedIn**  
+[linkedin.com/in/adityapatne001](https://linkedin.com/in/adityapatne001)
 
-**https://linkedin.com/in/adityapatne001**
+💻 **GitHub**  
+[github.com/adityapatne001](https://github.com/adityapatne001)
 
-### 💻 **GitHub**
-
-**https://github.com/adityapatne001**
-
-### 📄 **Resume**
-
-**./Aditya_Patne_Resume.pdf**
+📄 **Resume**  
+[View Resume (PDF)](./Aditya_Patne_Resume.pdf)
 
 ---
 
