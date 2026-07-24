@@ -2,11 +2,11 @@
 
 ## 🚀 **Data Analyst | AI Evaluation | Business Intelligence | AI Operations**
 
-I'm a **Data Analyst** with hands-on experience in **SQL, Excel, Power BI, Python** and practical experience evaluating **AI-generated responses**, comparing model outputs and building **AI-assisted analytical applications**.
+I'm a **Data Analyst** with hands-on experience in **SQL, Excel, Power BI, Python**, and practical experience evaluating **AI-generated responses**, comparing model outputs and building **AI-assisted analytical applications**.
 
-I have hands-on exposure to **AI response evaluation, prompt assessment, structured reasoning, workflow optimization, dashboard development and business reporting** using modern AI tools.
+I have hands-on exposure to **AI response evaluation, prompt assessment, structured reasoning, workflow optimization, dashboard development, and business reporting** using modern AI tools.
 
-I enjoy transforming raw data into meaningful insights, building interactive dashboards, automating reporting workflows and exploring practical applications of Artificial Intelligence.
+I enjoy transforming raw data into meaningful insights, building interactive dashboards, automating reporting workflows, and exploring practical applications of Artificial Intelligence.
 
 I'm currently seeking opportunities in:
 
@@ -112,7 +112,7 @@ A Python + Streamlit application that simulates real-world **AI evaluation workf
 
 🔗 https://github.com/adityapatne001/corporate-data-analysis-python
 
-Python application for cleaning, analyzing and visualizing business datasets.
+Python application for cleaning, analyzing, and visualizing business datasets.
 
 ### **Key Features**
 
@@ -293,5 +293,3 @@ I'm interested in opportunities involving:
 ---
 
 # ⭐ **Thanks for Visiting!**
-
-If you find my projects interesting, feel free to explore my repositories, connect with me on LinkedIn or reach out for collaboration and opportunities.
