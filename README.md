@@ -1,21 +1,14 @@
 # 👋 Hi, I'm **Aditya Patne**
 
-## 🚀 **Data Analyst | AI Evaluation | Business Intelligence | AI Operations**
+## 🚀 **Data Analyst | AI Training & Evaluation | Business Intelligence | Generative AI**
 
-I'm a **Data Analyst** with hands-on experience in **SQL, Excel, Power BI, Python**, and practical experience evaluating **AI-generated responses**, comparing model outputs and building **AI-assisted analytical applications**.
+I'm a **Data Analyst and AI Evaluation professional** with hands-on experience in **AI data training, AI response evaluation, comparative model assessment, prompt evaluation, and structured quality review**, alongside technical skills in **Python, SQL, Excel, Power BI, and Streamlit**.
 
-I have hands-on exposure to **AI response evaluation, prompt assessment, structured reasoning, workflow optimization, dashboard development, and business reporting** using modern AI tools.
+As an **independent AI data trainer**, I have completed structured AI evaluation tasks involving detailed project guidelines and quality rubrics, including comparing model outputs, assessing instruction following, identifying response-quality issues, and producing evidence-based evaluation rationales.
 
-I enjoy transforming raw data into meaningful insights, building interactive dashboards, automating reporting workflows, and exploring practical applications of Artificial Intelligence.
+I also build practical AI and analytics applications using **Python, Streamlit, Gemini API, SQL, Excel, and Power BI**, with experience in AI-assisted development workflows, data analysis, dashboard development, reporting automation, and prompt optimization.
 
-I'm currently seeking opportunities in:
-
-- **Data Analytics**
-- **Business Intelligence**
-- **Reporting & MIS**
-- **AI Operations**
-- **AI Evaluation**
-- **Prompt Quality Assurance (Prompt QA)**
+I'm particularly interested in the intersection of **AI evaluation, Generative AI, data analytics, and AI-assisted development**.
 
 ---
 
@@ -50,25 +43,35 @@ I'm currently seeking opportunities in:
 
 ---
 
-## 🤖 **AI & Productivity**
+## 🤖 **AI Training, Evaluation & Generative AI**
 
-- **ChatGPT**
-- **Google Gemini**
+- **AI Data Training**
 - **AI Response Evaluation**
+- **Comparative Model Evaluation**
+- **AI Output Quality Assessment**
+- **Instruction-Following Evaluation**
+- **Evaluation Rubrics & Quality Guidelines**
+- **Evidence-Based Evaluation Rationales**
 - **Prompt Evaluation**
+- **Prompt Engineering**
 - **Prompt Optimization**
-- **Comparative Response Analysis**
+- **LLM Workflows**
+- **AI-Assisted Development**
 - **Structured Reasoning**
-- **AI-Assisted Reporting**
 
 ---
 
 ## ⚙️ **Tools & Development Environment**
 
+- **ChatGPT**
+- **Google Gemini**
+- **Claude**
+- **Claude Code**
+- **OpenAI Codex CLI**
+- **Gemini API**
 - **Git**
 - **GitHub**
 - **VS Code**
-- **Claude Code**
 - **Ubuntu (WSL)**
 
 ---
@@ -84,6 +87,25 @@ I build and test projects using a modern development workflow that includes:
 - **Python Virtual Environments**
 
 ---
+
+# 💼 **Professional Experience**
+
+## 🤖 **Independent Contractor — AI Data Trainer | Remote**
+
+- Evaluated AI-generated responses using detailed project instructions, structured quality guidelines, and evaluation rubrics.
+- Compared AI model outputs for instruction following, relevance, clarity, factual accuracy, reasoning quality, and overall response quality.
+- Identified errors, weaknesses, and quality differences between AI-generated outputs and made structured evaluation decisions.
+- Produced concise, evidence-based rationales supporting evaluation judgments and model-output comparisons.
+- Completed varied AI training and evaluation tasks requiring careful interpretation of task-specific instructions and quality criteria.
+- Adapted to evolving project documentation, evaluation standards, and task formats while maintaining consistency and attention to detail.
+- Worked with AI-assisted development tools, command-line environments, and structured technical workflows where required by project tasks.
+
+## 🖥️ **Associate Engineer — NOC | Tata Communications Limited**
+
+- Monitored network operations, system alerts, and incidents in a real-time operational environment.
+- Followed structured troubleshooting, escalation, issue-tracking, and operational support procedures.
+- Worked with monitoring and reporting workflows requiring accuracy and timely response.
+- Developed experience in process adherence, analytical problem-solving, and time-sensitive technical operations.
 
 # 🚀 **Featured Projects**
 
@@ -224,42 +246,13 @@ Interactive executive dashboard for monitoring sales performance.
 
 ---
 
-# 🤖 **AI Evaluation Experience**
-
-I have practical experience using modern Large Language Models to support analytical and evaluation workflows.
-
-### **Hands-on Experience**
-
-- ✅ AI Response Evaluation
-- ✅ Comparative Response Analysis
-- ✅ Prompt Evaluation
-- ✅ Prompt Refinement
-- ✅ Prompt Optimization
-- ✅ Structured Reasoning
-- ✅ AI-Assisted Reporting
-- ✅ Documentation Enhancement
-
-### **AI Tools**
-
-- **ChatGPT**
-- **Google Gemini**
-
-### **Prompting Techniques**
-
-- **Zero-shot Prompting**
-- **One-shot Prompting**
-- **Few-shot Prompting**
-- **Chain-of-Thought Prompting**
-
----
-
 # 📌 **Currently Working On**
 
-- 🚀 Enhancing **AI Response Evaluation Studio**
-- 📊 Expanding **Power BI Dashboard Portfolio**
-- 🐍 Building advanced **SQL & Python** projects
-- 🤖 Exploring **AI Evaluation & AI Operations**
-- 📈 Developing business-focused analytical solutions
+- 🤖 Expanding practical experience in **AI training, model evaluation, and response-quality assessment**
+- 🚀 Enhancing the **AI Response Evaluation & Prompt Optimization Studio**
+- 🐍 Strengthening **Python, SQL, and AI-assisted development workflows**
+- 📊 Expanding my **Data Analytics & Business Intelligence portfolio**
+- 🔧 Exploring practical applications of **Generative AI, APIs, automation, and LLM workflows**
 
 ---
 
@@ -267,15 +260,17 @@ I have practical experience using modern Large Language Models to support analyt
 
 I'm interested in opportunities involving:
 
+- **AI Training & Evaluation**
+- **AI Data Quality**
+- **AI Response / Model Evaluation**
+- **Generative AI**
+- **Prompt Evaluation & Prompt QA**
+- **AI Operations**
 - **Data Analytics**
 - **Business Intelligence**
+- **Python / SQL Analytics**
 - **Reporting & MIS**
-- **AI Operations**
-- **AI Evaluation**
-- **Prompt QA**
-- **Dashboard Development**
-- **Business Reporting**
-- **Data Visualization**
+- **Workflow Automation**
 
 ---
 
