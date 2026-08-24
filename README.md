@@ -217,10 +217,10 @@ Interactive executive dashboard for monitoring sales performance.
 
 # 📜 **Certifications**
 
-- ✅ **Power BI**
-- ✅ **SQL**
-- ✅ **Excel Formula Mastery using AI**
-- ✅ **AI Powered Python**
+- ✅ [**AI Powered Python**](./certificates/AI_Powered_Python_Certificate.pdf)
+- ✅ [**Power BI**](./certificates/Power_BI_Certificate.pdf)
+- ✅ [**SQL**](./certificates/SQL_Certificate.pdf)
+- ✅ [**Excel Formula Mastery using AI**](./certificates/Excel_Formula_Mastery_using_AI_Certificate.pdf)
 
 ---
 
