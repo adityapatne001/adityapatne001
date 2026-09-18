@@ -23,11 +23,12 @@ I'm particularly interested in opportunities where **data analysis, AI evaluatio
 
 ## 🤖 **Independent Contractor — AI Data Trainer | Remote**
 
-- Evaluate AI-generated responses using structured quality guidelines and evaluation rubrics.
-- Compare AI outputs for factual accuracy, relevance, clarity, completeness, and instruction following.
-- Produce evidence-based rationales to support consistent evaluation and ranking decisions.
-- Identify inconsistencies, unsupported claims, reasoning issues, and failures to satisfy user requirements.
-- Maintain quality and consistency while independently following detailed and evolving project guidelines.
+##    **Platforms: DataAnnotation.tech • Handshake AI**
+
+- Evaluated and compare LLM-generated responses using structured quality criteria and evaluation rubrics.
+- Performed comparative model evaluation, response ranking, and evidence-based rationale writing.
+- Contributed to coding-agent benchmark and verification workflows involving Python, Docker, pytest, Git/GitHub, and CLI environments.
+- Identified reasoning errors, unsupported claims, instruction-following failures, and other model-quality issues.
 
 ## 🖥️ **Associate Engineer — NOC | Tata Communications Limited**
 
