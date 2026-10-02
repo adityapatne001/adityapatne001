@@ -1,12 +1,14 @@
 # 👋 Hi, I'm **Aditya Patne**
 
-## 🚀 **Data Analyst | AI Data Trainer & Evaluator**
+## 🚀 **Data Analyst | AI Data Trainer & Evaluator | AI-Assisted Software Development**
 
-I work across **data analytics and AI evaluation**, with hands-on experience in **Python, Pandas, SQL, Excel, Power BI, and structured AI response evaluation**.
+I work across **data analytics, AI evaluation, and practical software development**, with hands-on experience in **Python, Pandas, SQL, Excel, Power BI, AI response evaluation, and AI-assisted development workflows**.
 
-My work includes data cleaning, transformation, reporting, dashboard development, AI output comparison, instruction-following assessment, and evidence-based evaluation. I also build practical analytics and AI workflow applications using **Python, Streamlit, Gemini API, PostgreSQL, Power BI, and Azure Data Factory**.
+My work includes data cleaning, transformation, reporting, dashboard development, AI output comparison, instruction-following assessment, evidence-based evaluation, and building practical analytics and AI applications.
 
-I'm particularly interested in opportunities where **data analysis, AI evaluation, and technical AI workflows intersect**.
+I also use AI as a development partner for planning, debugging, testing, UI refinement, and reasoning through technical edge cases while independently validating the resulting implementation.
+
+I'm particularly interested in opportunities where **data analysis, AI evaluation, technical AI workflows, and software development intersect**.
 
 ---
 
@@ -14,8 +16,10 @@ I'm particularly interested in opportunities where **data analysis, AI evaluatio
 
 - **Data Analytics:** Python, Pandas, NumPy, SQL, Excel, Power BI, Power Query, DAX, Matplotlib
 - **AI Training & Evaluation:** AI Response Evaluation, Comparative Model Evaluation, Prompt Evaluation, AI Output Quality Assessment, Instruction-Following Evaluation, Evaluation Rubrics, Evidence-Based Rationales, Prompt Engineering, LLM Workflows
+- **Software & Web Development:** JavaScript, Node.js, WebSockets, HTML, CSS, Canvas, Streamlit
 - **Databases & ETL:** PostgreSQL, SQL Server, Azure Data Factory
-- **Tools & Development:** Streamlit, Gemini API, Git, GitHub, VS Code, pgAdmin, SSMS, Azure Data Studio, ChatGPT, Google Gemini, Ubuntu (WSL)
+- **AI & APIs:** Gemini API, ChatGPT, Google Gemini
+- **Development Tools:** Git, GitHub, Docker, pytest, VS Code, pgAdmin, SSMS, Azure Data Studio, Ubuntu (WSL), Render
 
 ---
 
@@ -23,9 +27,9 @@ I'm particularly interested in opportunities where **data analysis, AI evaluatio
 
 ## 🤖 **Independent Contractor — AI Data Trainer | Remote**
 
-##    **Platforms: DataAnnotation.tech • Handshake AI**
+### **Platforms: DataAnnotation.tech • Handshake AI**
 
-- Evaluated and compare LLM-generated responses using structured quality criteria and evaluation rubrics.
+- Evaluated and compared LLM-generated responses using structured quality criteria and evaluation rubrics.
 - Performed comparative model evaluation, response ranking, and evidence-based rationale writing.
 - Contributed to coding-agent benchmark and verification workflows involving Python, Docker, pytest, Git/GitHub, and CLI environments.
 - Identified reasoning errors, unsupported claims, instruction-following failures, and other model-quality issues.
@@ -37,7 +41,46 @@ I'm particularly interested in opportunities where **data analysis, AI evaluatio
 - Worked with monitoring and reporting workflows requiring accuracy and timely response.
 - Developed experience in process adherence, analytical problem-solving, and time-sensitive technical operations.
 
+---
+
 # 🚀 **Featured Projects**
+
+## ⚡ **Spark Scramble — Real-Time Multiplayer Game**
+
+🎮 **Live game:**  
+https://sparkscramble.onrender.com
+
+🗂️ **Public GitHub showcase:**  
+https://github.com/adityapatne001/spark-scramble-showcase
+
+Spark Scramble is a fast-paced **2–4 player real-time multiplayer arena game** built around one shared Spark.
+
+Players chase the Spark, dash into carriers, intercept throws, and launch it into their own launcher to score.
+
+### **Key Features**
+
+- ✅ Real-time 2–4 player multiplayer
+- ✅ Quick Play matchmaking
+- ✅ Private rooms
+- ✅ Server-authoritative scoring and match state
+- ✅ Dash-based body checks
+- ✅ Throwing, catching, and interception mechanics
+- ✅ Sudden Death
+- ✅ Power-ups and arena events
+- ✅ Rematches
+- ✅ Custom player names and colors
+- ✅ Remappable desktop controls
+- ✅ Mobile touch controls
+- ✅ Original procedural sound effects and music
+- ✅ 175 automated tests
+
+**Tech Stack:** **JavaScript • Node.js • WebSockets • HTML • CSS • Canvas • Render**
+
+The project was developed with AI used throughout planning, debugging, edge-case analysis, UI refinement, testing, and deployment workflows.
+
+The **production source code and active development repository are maintained privately** to protect the project's implementation. The linked public repository is a dedicated showcase containing screenshots, technical information, testing details, and access to the live game.
+
+---
 
 ## 🤖 **AI Response Evaluation & Prompt Optimization Studio**
 
@@ -78,11 +121,11 @@ Python application for cleaning, analyzing, and visualizing business datasets.
 
 ---
 
-## 🧩 **Retail Sales Analysis (Excel + SQL + Power BI)**
+## 🧩 **Retail Sales Analysis — Excel + SQL + Power BI**
 
 🔗 https://github.com/adityapatne001/retail-sales-analysis-excel-sql-powerbi
 
-End-to-end analytics project covering complete reporting workflow from raw data to executive dashboards.
+End-to-end analytics project covering the complete reporting workflow from raw data to executive dashboards.
 
 ### **Key Features**
 
@@ -178,10 +221,10 @@ Interactive executive dashboard for monitoring sales performance.
 
 # 📌 **Currently Working On**
 
-- 🐍 Strengthening practical skills in **Python, Pandas, SQL, Power BI, and data analysis**
+- ⚡ Continuing development of **Spark Scramble**, including exploring its transition into an Android application
 - 🤖 Expanding experience in **AI training, model evaluation, and response-quality assessment**
-- 📊 Improving practical projects involving **analytics, AI workflows, APIs, and automation**
-- 🔧 Building stronger end-to-end projects that combine **data analysis and AI evaluation**
+- 🐍 Strengthening practical skills in **Python, Pandas, SQL, Power BI, and data analysis**
+- 🔧 Building stronger end-to-end projects that combine **data analysis, AI workflows, APIs, automation, and software development**
 
 ---
 
