@@ -76,9 +76,9 @@ Players chase the Spark, dash into carriers, intercept throws, and launch it int
 
 **Tech Stack:** **JavaScript • Node.js • WebSockets • HTML • CSS • Canvas • Render**
 
-The project was developed with AI used throughout planning, debugging, edge-case analysis, UI refinement, testing, and deployment workflows.
+Development focused on real-time state synchronization, multiplayer fairness, latency-sensitive interactions, matchmaking lifecycle behavior, responsive controls, cross-device presentation, and regression testing.
 
-The **production source code and active development repository are maintained privately** to protect the project's implementation. The linked public repository is a dedicated showcase containing screenshots, technical information, testing details, and access to the live game.
+The **production source code and active development repository are maintained privately**. The linked public repository is a dedicated project showcase containing screenshots, technical information, testing details, and access to the live game.
 
 ---
 
