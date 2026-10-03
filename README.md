@@ -18,7 +18,7 @@ I'm particularly interested in opportunities where **data analysis, AI evaluatio
 - **AI Training & Evaluation:** AI Response Evaluation, Comparative Model Evaluation, Prompt Evaluation, AI Output Quality Assessment, Instruction-Following Evaluation, Evaluation Rubrics, Evidence-Based Rationales, Prompt Engineering, LLM Workflows
 - **Software & Web Development:** JavaScript, Node.js, WebSockets, HTML, CSS, Canvas, Streamlit
 - **Databases & ETL:** PostgreSQL, SQL Server, Azure Data Factory
-- **AI & APIs:** Gemini API, ChatGPT, Google Gemini
+- **AI:** ChatGPT, Google Gemini
 - **Development Tools:** Git, GitHub, Docker, pytest, VS Code, pgAdmin, SSMS, Azure Data Studio, Ubuntu (WSL), Render
 
 ---
