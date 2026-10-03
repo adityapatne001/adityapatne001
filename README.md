@@ -221,7 +221,7 @@ Interactive executive dashboard for monitoring sales performance.
 
 # 📌 **Currently Working On**
 
-- ⚡ Continuing development of **Spark Scramble**, including exploring its transition into an Android application
+- ⚡ Continuing development of Spark Scramble, including exploring expanded Android and Windows versions
 - 🤖 Expanding experience in **AI training, model evaluation, and response-quality assessment**
 - 🐍 Strengthening practical skills in **Python, Pandas, SQL, Power BI, and data analysis**
 - 🔧 Building stronger end-to-end projects that combine **data analysis, AI workflows, APIs, automation, and software development**
