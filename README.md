@@ -25,7 +25,7 @@ I'm particularly interested in opportunities where **data analysis, AI evaluatio
 
 # 💼 **Professional Experience**
 
-## 🤖 **Independent Contractor — AI Data Trainer | Remote**
+## 🤖 **Independent Contractor - AI Data Trainer | Remote**
 
 ### **Platforms: DataAnnotation.tech • Handshake AI**
 
@@ -34,7 +34,7 @@ I'm particularly interested in opportunities where **data analysis, AI evaluatio
 - Contributed to coding-agent benchmark and verification workflows involving Python, Docker, pytest, Git/GitHub, and CLI environments.
 - Identified reasoning errors, unsupported claims, instruction-following failures, and other model-quality issues.
 
-## 🖥️ **Associate Engineer — NOC | Tata Communications Limited**
+## 🖥️ **Associate Engineer - NOC | Tata Communications Limited**
 
 - Monitored network operations, system alerts, and incidents in a real-time operational environment.
 - Followed structured troubleshooting, escalation, issue-tracking, and operational support procedures.
@@ -45,7 +45,7 @@ I'm particularly interested in opportunities where **data analysis, AI evaluatio
 
 # 🚀 **Featured Projects**
 
-## ⚡ **Spark Scramble — Real-Time Multiplayer Game**
+## ⚡ **Spark Scramble - Real-Time Multiplayer Game**
 
 🎮 **Live game:**  
 https://sparkscramble.onrender.com
