@@ -121,22 +121,26 @@ Python application for cleaning, analyzing, and visualizing business datasets.
 
 ---
 
-## 🧩 **Retail Sales Analysis — Excel + SQL + Power BI**
+## 📊 **Superstore Profit Observatory - Retail Sales Analytics**
 
 🔗 https://github.com/adityapatne001/retail-sales-analysis-excel-sql-powerbi
 
-End-to-end analytics project covering the complete reporting workflow from raw data to executive dashboards.
+An end-to-end retail analytics project originally developed using Excel, PostgreSQL and Power BI, and substantially enhanced through a data-quality audit, corrected relational modeling, a seven-page Power BI report and a responsive interactive web dashboard.
 
 ### **Key Features**
 
-- ✅ SQL Analysis
-- ✅ Excel Dashboard
-- ✅ Power BI Dashboard
-- ✅ KPI Tracking
-- ✅ Time Intelligence
-- ✅ Drillthrough Reports
+- ✅ Corrected and reconciled 9,994 transaction lines across 5,009 distinct orders.
+- ✅ PostgreSQL relational modeling, SQL analysis and repeatable data validation.
+- ✅ Excel reporting with Power Query, PivotTables, slicers and KPI formulas.
+- ✅ Seven-page Power BI report with interactive filters, DAX KPIs and time intelligence.
+- ✅ Responsive Aurora web dashboard with embedded data, chart interactions and dynamic insights.
+- ✅ Profitability analysis across products, categories, regions and customers.
 
-**Tech Stack:** **SQL • Excel • Power BI**
+**Key insight:** Technology contributes 50.8% of total profit, while Furniture achieves only a 2.5% profit margin despite generating approximately $742K in sales.
+
+**Tech Stack:** **PostgreSQL • SQL • Excel • Power Query • Power BI • DAX • HTML • CSS • JavaScript**
+
+**Dataset:** Tableau Sample Superstore (fictional U.S. retailer, 2014-2017).
 
 ---
 
